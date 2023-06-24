@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Diego Araujo
 - I live in :brazil:, northeast :sunglasses::sunrise:
-- I have been working on Certus Software as backend developer :computer:
+- I love back-end developer :computer:
 - I have been learnig more about Ruby on Rails :sparkling_heart:
 
 ## Connect with me:
