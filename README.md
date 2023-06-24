@@ -2,7 +2,7 @@
 ## I'm Diego Araujo
 - I live in :brazil:, northeast :sunglasses::sunrise:
 - I love back-end developer :computer:
-- I have been learnig more about Ruby on Rails :sparkling_heart:
+- Ruby on Rails :sparkling_heart:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/diego-araujo1985/" target="_blank">
